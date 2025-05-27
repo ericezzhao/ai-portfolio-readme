@@ -111,10 +111,7 @@ I am a master's data science student at NYU working on AI and ML topics. Current
 
 ## Local Development
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ericezzhao/ericezzhao.github.io.git
-   ```
+1. Clone the repository (if public, else just build)
 
 2. Install dependencies:
    ```bash
